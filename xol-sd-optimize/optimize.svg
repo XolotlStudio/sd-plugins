@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="46px" viewBox="0 0 40 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" fill-rule="nonzero">
+            <polygon id="Shape" fill="#A9DDF3" points="20 0 0.08 11.5 0.08 34.5 20 46 39.92 34.5 39.92 11.5"></polygon>
+            <rect id="Rectangle-path" fill="#1F80AA" x="2" y="12.07" width="9" height="9" rx="1"></rect>
+            <rect id="Rectangle-path" fill="#1F80AA" x="2" y="24.93" width="9" height="9" rx="1"></rect>
+            <rect id="Rectangle-path" fill="#1F80AA" x="29" y="18.5" width="9" height="9" rx="1"></rect>
+            <path d="M27.3,22.65 L22.14,17.49 C21.9971498,17.3499401 21.7845644,17.3085122 21.5995758,17.384684 C21.4145871,17.4608558 21.29281,17.6399624 21.29,17.84 L21.29,19.61 C21.2846799,19.8839085 21.0639085,20.1046799 20.79,20.11 L14.07,20.11 C13.7938576,20.11 13.57,20.3338576 13.57,20.61 L13.57,25.39 C13.57,25.6661424 13.7938576,25.89 14.07,25.89 L20.79,25.89 C21.0639085,25.8953201 21.2846799,26.1160915 21.29,26.39 L21.29,28.16 C21.29281,28.3600376 21.4145871,28.5391442 21.5995758,28.615316 C21.7845644,28.6914878 21.9971498,28.6500599 22.14,28.51 L27.3,23.35 C27.4905714,23.1555782 27.4905714,22.8444218 27.3,22.65 Z" id="Shape" fill="#F47B50"></path>
+        </g>
+    </g>
+</svg>
