@@ -1,2 +1,2 @@
-# xolotl-sd-plugins
+# Substance Designer Library
 Substance Designer Plugins library
